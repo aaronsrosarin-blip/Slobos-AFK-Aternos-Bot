@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VALLEY_SMP.aternos.me",
+    "ip": "VALLEY_SMP.aternos.me:58075",
     "port": 58075,
     "version": "",
     "try-creative": false
